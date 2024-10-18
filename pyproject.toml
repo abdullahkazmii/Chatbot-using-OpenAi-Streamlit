@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 streamlit = "^1.39.0"
 openai = "^1.51.2"
+requests = "^2.32.3"
 
 
 [build-system]

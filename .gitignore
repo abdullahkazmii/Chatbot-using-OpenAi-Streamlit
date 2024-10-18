@@ -6,8 +6,10 @@ __pycache__/
 # Virtual environments
 .env
 .venv
+.streamlit
 env/
 venv/
+
 
 # Poetry specific
 poetry.lock
